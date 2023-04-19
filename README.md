@@ -25,6 +25,3 @@ Random forests are an ensemble learning method for classification, regression, a
 
 ### Support Vector Machine (SVM)
 Support Vector Machines (SVM) are a powerful and flexible algorithm for classification, regression, and other tasks. In this directory, you will find code examples and notes on how to implement SVM in Python and how to optimize its performance.
-
-## Resources
-In addition to my personal notes and code examples, I have also included a list of resources that I have found helpful in my learning journey. These resources include books, online courses, and websites that cover various topics related to data science and machine learning.
